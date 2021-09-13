@@ -1,2 +1,2 @@
-# http://IagoaFr.github.io
+# https://IagoaFr.github.io
 My Games E-Commerce
